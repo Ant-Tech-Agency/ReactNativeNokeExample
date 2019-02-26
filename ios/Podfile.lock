@@ -1,0 +1,16 @@
+PODS:
+  - NokeMobileLibrary (0.6.4)
+
+DEPENDENCIES:
+  - NokeMobileLibrary
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - NokeMobileLibrary
+
+SPEC CHECKSUMS:
+  NokeMobileLibrary: 8b1adea854b41cc2ccbfbef9f5b08b405947bd1f
+
+PODFILE CHECKSUM: e6dece41fa84a98832022ae99a93b783734299a3
+
+COCOAPODS: 1.6.0
